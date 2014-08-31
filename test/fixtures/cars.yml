@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  model: MyString
+  doors_count: 1
+  make: MyString
+  year: 1
+
+two:
+  model: MyString
+  doors_count: 1
+  make: MyString
+  year: 1
